@@ -27,7 +27,7 @@ article{
     width: auto;
     height: auto;
     position: absolute;
-    top: 3.2em;
+    top: 2em;
     left: 6.7%;
 }
 
@@ -53,8 +53,8 @@ span{
 footer{
     background: url(/res/ucmlgowht.png);
     background-size: contain;
-    width: 185px;
-    height: 70px;
+    width: 92px;
+    height: 35px;
     position: absolute;
     bottom: 5em;
     mix-blend-mode: difference;    
